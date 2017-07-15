@@ -1,10 +1,15 @@
 # mozfest2017-explain-algorithms
 
-# Requirements
+# Python3 Requirements
 
+* jupyter
 * pandas
 * lime
 * sklearn
+
+# Usage
+
+start notebook from shell in repo folder with `jupyter notebook`
 
 # data sources
 
