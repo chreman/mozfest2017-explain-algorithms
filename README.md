@@ -1,5 +1,11 @@
 # mozfest2017-explain-algorithms
 
+# Requirements
+
+* pandas
+* lime
+* sklearn
+
 # data sources
 
 German credit scoring: https://onlinecourses.science.psu.edu/stat857/node/215,
